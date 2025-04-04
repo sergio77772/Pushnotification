@@ -1,0 +1,13 @@
+flutter_native_splash:
+  android: true
+  ios: true
+  web: true
+
+  color: "#FFFFFF"
+  # image: assets/imagen_splash.jpg
+
+  android_12:
+    # image: assets/imagen_splash.jpg
+    color: "#FFFFFF"
+
+  android_gravity: fill  # Hace que la imagen cubra toda la pantalla
